@@ -69,7 +69,7 @@ section {
     border: 1px solid #772FD3;
     border-radius: 20px;
     width: 327px;
-    height: 276px;
+    height: 290px;
     margin-top: 36px;
     padding: 12px;
     display: flex;
@@ -99,7 +99,7 @@ section {
     color: #777777;
 }
 
-.p-Valor {
+.p-Valor, .p-Valor-convert {
     font-weight: 700px;
     font-size: 20px;
     color: #555555;
