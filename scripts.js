@@ -31,4 +31,22 @@ function convertValues() {
 
 }
 
+function changeCurrency() {
+    const currencyName = document.querySelector(".p-moeda-dolar")
+    const currencyImage = document.querySelector(".img-Moeda-dolar")
+
+    if (currencySelect.value == "dolar"){
+        currencyName.innerHTML = "Dólar americano"
+        currencyImage.src = "./assets/estados-unidos (1) 1.png"
+    }
+
+    if (currencySelect.value == "euro"){
+        currencyName.innerHTML = "Euro"
+        currencyImage.src = "./assets/Euro.png"
+    }
+
+    convertValues()
+}
+
+currencySelect.addEventListener("change", changeCurrency)
 convertButton.addEventListener("click", convertValues)

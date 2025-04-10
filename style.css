@@ -88,12 +88,12 @@ section {
     gap: 4px;
 }
 
-.img-Moeda {
+.img-Moeda, .img-Moeda-dolar {
     width: 44px;
     height: 44px;
 }
 
-.p-moeda {
+.p-moeda, .p-moeda-dolar {
     font-weight: 400px;
     font-size: 14px;
     color: #777777;
