@@ -32,7 +32,8 @@ label {
     line-height: 18px;
 }
 
-select, input {
+select,
+input {
     background-color: #FFFFFF;
     border-radius: 4px;
     border: 1px solid #BBBBBB;
@@ -88,18 +89,21 @@ section {
     gap: 4px;
 }
 
-.img-Moeda, .img-Moeda-dolar {
+.img-Moeda,
+.img-Moeda-dolar {
     width: 44px;
     height: 44px;
 }
 
-.p-moeda, .p-moeda-dolar {
+.p-moeda,
+.p-moeda-dolar {
     font-weight: 400px;
     font-size: 14px;
     color: #777777;
 }
 
-.p-Valor, .p-Valor-convert {
+.p-Valor,
+.p-Valor-convert {
     font-weight: 700px;
     font-size: 20px;
     color: #555555;
