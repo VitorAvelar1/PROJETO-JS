@@ -93,6 +93,7 @@ section {
 .img-Moeda-dolar {
     width: 44px;
     height: 44px;
+    box-shadow: #00000040 25%;
 }
 
 .p-moeda,
