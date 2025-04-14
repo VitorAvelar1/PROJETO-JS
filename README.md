@@ -1,5 +1,5 @@
 <h1>💱 Conversor de Moedas - Real para Euro e Dólar</h1>
-<p>Este é um projeto simples de conversão de moedas utilizando HTML, CSS e JavaScript. O objetivo é converter valores em Real (BRL) para Dólar (USD) e Euro (EUR) com base em taxas de câmbio atualizadas.</p>
+<p>Este é um projeto simples de conversão de moedas utilizando HTML, CSS e JavaScript. O objetivo é converter valores em Real (BRL) para Dólar (USD), Euro (EUR), Libra(GBP) e Lira Turca(TRY) com base em taxas de câmbio atualizadas.</p>
 
 <h2>🚀 Funcionalidades</h2>
 <p>Conversão de Real para Dólar</p>
